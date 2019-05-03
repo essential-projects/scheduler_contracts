@@ -1,10 +1,10 @@
 # Scheduler Contracts
 
-These are the contracts for the [@essential-projects/scheduler_extension](essential-projects/scheduler_extension).
+These are the contracts for the [@essential-projects/scheduler_extension](https://github.com/essential-projects/scheduler_extension).
 
 ## What are the goals of this project?
 
-The goal is to provide interfaces and constants for the [@essential-projects/scheduler_extension](essential-projects/scheduler_extension).
+The goal is to provide interfaces and constants for the [@essential-projects/scheduler_extension](https://github.com/essential-projects/scheduler_extension).
 
 ### Requirements
 
