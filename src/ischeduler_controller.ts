@@ -1,7 +1,6 @@
-import {CronJob} from 'cron';
-import {ISchedule} from './ischedule';
+import {CronJob, CronCommand} from 'cron';
 
 export interface ISchedulerController {
   jobs: Array<CronJob>;
-  schedule: ISchedule;
+  registerJob(schedule: string | Date, job: CronCommand)
 }
